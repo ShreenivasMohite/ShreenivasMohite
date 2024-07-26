@@ -1,4 +1,4 @@
-# Hello, I'm Shreenias Mohite 👋
+# Hello, I'm Shreenivas Mohite 👋
 
 Welcome to my GitHub profile! I’m currently building my career in CCNA networking and have a keen interest in network engineering. Here’s a bit about me:
 
@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I’m currently building my career in CCNA network
 
 ## 🤝 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/shreenias-mohite)
+- [LinkedIn](https://www.linkedin.com/in/shreenivas-mohite)
 
 
 ## 👨‍💻 Fun Fact
